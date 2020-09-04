@@ -11,9 +11,9 @@
 _Nav._
 
 ## Valodu zināšanas
-#####Angļu - saruna
-#####Igauņu - vāji
-#####rievu - vāji
+####Angļu - saruna
+####Igauņu - vāji
+####rievu - vāji
 
 ## Programmēšanas pieredze
 ### Python - 1 gads
