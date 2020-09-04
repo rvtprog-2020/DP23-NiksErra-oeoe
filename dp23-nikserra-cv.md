@@ -1,5 +1,5 @@
 # Niks Erra
-![](https://lastfm.freetls.fastly.net/i/u/ar0/3c54d32ddc5118aeb92fe88f3434a00f.png)
+![](bilde.png)
 ## Dzīves vieta
 * ) Rīga, Āgenskalns
 ## Izglītība
