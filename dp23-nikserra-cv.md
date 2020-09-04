@@ -23,6 +23,6 @@ _Nav._
 
 ## Izveidotie darbi
 
-1.) 3 Discord čatboti (JavaScript, Python)
-2.) Testa mājaslapa (html)
-3.) Videospēles _Garry's Mod_ modifikācija (Lua)
+1. ) 3 Discord čatboti (JavaScript, Python)
+2. ) Testa mājaslapa (html)
+3. ) Videospēles _Garry's Mod_ modifikācija (Lua)
