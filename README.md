@@ -18,3 +18,6 @@ git commit -m "update message"
 git push
 ```
 ### godsent - https://ohshitgit.com/
+
+# lest vordz
+## rīmember tu ček aut zi viki peidž for informeišan
