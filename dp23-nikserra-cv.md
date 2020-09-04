@@ -16,10 +16,10 @@ _Nav._
 #### Krievu - vāji
 
 ## Programmēšanas pieredze
-### Python - 1 gads
-### JavaScript - 2 mēneši
-### html - 1 mēnesis
-### Lua - 1 nedēļa
+##### Python - 1 gads
+##### JavaScript - 2 mēneši
+##### html - 1 mēnesis
+##### Lua - 1 nedēļa
 
 ## Izveidotie darbi
 
